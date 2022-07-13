@@ -1,0 +1,8 @@
+nltk
+numpy
+pandas
+nltk
+gensim
+sklearn
+matplotlib
+tensorflow==2.8
